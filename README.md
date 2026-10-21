@@ -3,9 +3,8 @@ Labs and coursework code for COMP0246 for the 2026/27 session
 
 ## Self-study tutorial series
 
-[`tutorial/`](tutorial/README.md) is a structured programme that goes from ROS 2
-internals through rigid-body kinematics and dynamics to sampling-, optimisation- and
-learning-based motion planning, built around the code in this repo. Each module pairs a
-knowledge area with curated books, lectures and docs, and with an ambitious mini project
-whose success is measured. It explains the concepts behind the lab TODOs without
-providing lab solutions.
+[`tutorial/`](tutorial/README.md) tells the story of robot modelling and motion planning in
+six short, diagram-led chapters, from how ROS 2 programs talk to sampling, optimisation
+and learned motion. Each lesson gives the intuition, the terms to look up and a project
+with a measurable pass mark. It explains the ideas behind the lab TODOs without giving the
+answers.
